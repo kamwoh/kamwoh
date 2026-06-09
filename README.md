@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kam Woh Ng 👋</h1>
+<h1 align="center">Hi, I'm Kam Woh 👋</h1>
 
 <p align="center">
   <b>Research Scientist @ Meta AI</b> · London, UK<br>
